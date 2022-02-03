@@ -1,0 +1,1 @@
+採用 Dapper 這個小而美的 ORM 架構並以 Repository Pattern 來撰寫 ASP.NET Core 6 Web Api
